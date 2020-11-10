@@ -92,7 +92,7 @@ footer {
   width: 25%;
 }
 
-/* BREAKPOINTS */
+/* BREAKPOINTS set at 992px, as that's when the images become rows of 2 */
 
 @media (min-width: 992px) {
 
